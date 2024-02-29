@@ -43,17 +43,6 @@ namespace ConsoleApp2
             x = y;
             y = z;
         }
-        //public void Swap(ref int x, ref int y)
-        //{
-        //    int z = x;
-        //    x = y;
-        //    y = z;
-        //}
-        //public void Swap(ref double x, ref double y)
-        //{
-        //    double z = x;
-        //    x = y;
-        //    y = z;
-        //}
+    
     }
 }
